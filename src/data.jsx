@@ -1,0 +1,47 @@
+import img1 from './assets/images.jpg'
+
+export const moviedrop =[{
+    id: 1,
+    img: img1,
+    title: "Spider-Man Into the Spider Verse",
+    year: '2018',
+    description: 'Miles Morales teams up with alternate-universe heroes to save reality in the Oscar-winning animated film Spider-Man: Into the Spider-Verse.',
+    hours: '1h 56m',
+    movieType: 'Fantasy/Sci-Fi',
+},
+{
+    id: 2,
+    img: img1,
+    title: "Spider-Man Into the Spider Verse",
+    year: '2018',
+    description: 'Miles Morales teams up with alternate-universe heroes to save reality in the Oscar-winning animated film Spider-Man: Into the Spider-Verse.',
+    hours: '1h 56m',
+    movieType: 'Fantasy/Sci-Fi', 
+},
+{
+    id: 3,
+    img: img1,
+    title: "Spider-Man Into the Spider Verse",
+    year: '2018',
+    description: 'Miles Morales teams up with alternate-universe heroes to save reality in the Oscar-winning animated film Spider-Man: Into the Spider-Verse.',
+    hours: '1h 56m',
+    movieType: 'Fantasy/Sci-Fi',   
+},
+{
+    id: 4,
+    img: img1,
+    title: "Spider-Man Into the Spider Verse",
+    year: '2018',
+    description: 'Miles Morales teams up with alternate-universe heroes to save reality in the Oscar-winning animated film Spider-Man: Into the Spider-Verse.',
+    hours: '1h 56m',
+    movieType: 'Fantasy/Sci-Fi', 
+},
+{
+    id: 5,
+    img: img1,
+    title: "Spider-Man Into the Spider Verse",
+    year: '2018',
+    description: 'Miles Morales teams up with alternate-universe heroes to save reality in the Oscar-winning animated film Spider-Man: Into the Spider-Verse.',
+    hours: '1h 56m',
+    movieType: 'Fantasy/Sci-Fi', 
+}]
