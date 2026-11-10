@@ -13,3 +13,13 @@
   color: #ffffff;
   border-bottom: 4px solid #d9c421;
 }
+
+@media (min-width: 768px) {
+.cabin-sketch-bold {
+  font-size: 2.5em;
+  color: #ffffff38;
+}
+
+
+
+}

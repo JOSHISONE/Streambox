@@ -11,7 +11,7 @@ function NavBar(){
            <MdCheckBoxOutlineBlank className="text-amber-300" />
           <Link to= "/"><h2>Streambox.</h2></Link>
           </div>
-          <nav >
+          <nav className="hidden lg:flex">
             <ul className="flex items-center gap-7.5">
                <li><NavLink to="/Series" className={({isActive}) => isActive ? "text-gray-400" : "text-white"}>Series</NavLink></li>
                <li><NavLink to="/Movies" className={({isActive}) => isActive ? "text-gray-400" : "text-white"}>Movies</NavLink></li>
